@@ -1,2 +1,2 @@
 # Jonathan-Palmieri-College-Projects
-This is a repo of a variety of college projects. 
+This is a repository of a variety of college projects. 
